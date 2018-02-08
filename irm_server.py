@@ -20,7 +20,7 @@ CRON_FILE = "/home/pi/House/irm/crontab"
 LOG_FILE_DIR = "/home/pi/House/MadEYE/log/"
 LOG_FILE_NAME = "irm_server"
 STATE_FILE_DIR = "/home/pi/House/irm/state.json"
-BIG_MOUTH = "http://192.168.1.8:10080/speak?talk="
+BIG_MOUTH = "http://hogehoge/speak?talk="
 
 slack.notify(text="DCLABO was done boot.")
 
